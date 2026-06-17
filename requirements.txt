@@ -1,0 +1,9 @@
+numpy
+tensorflow
+pillow
+matplotlib
+fastapi
+uvicorn
+python-multipart
+httpx
+dotenv
